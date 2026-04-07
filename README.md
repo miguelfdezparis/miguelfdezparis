@@ -36,7 +36,7 @@ Fullstack Developer & Web Application Student from Spain 🇪🇸
 ============================
 
 ## 📡 Contact & Work
-- 🌐 **Website:** [miguelfdezparis.com](https://miguelfdezparis.com)  
+- 🌐 **Website:** [miguelfdezparis.com](https://miguelparis.com)  
 - **MixelNodes:** [mixelnodes.com](https://mixelnodes.com)  
 - Discord experience and community management  
 
