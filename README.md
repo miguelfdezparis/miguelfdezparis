@@ -5,11 +5,11 @@
 ---
 
 ### 🚀 Sobre mí
-💻 Apasionado por la **tecnología, la infraestructura y el desarrollo web moderno**.
-🌐 Construyo webs, paneles de administración, bots y sistemas de hosting.
-🔥 Fundador de **MixelNodes** — hosting profesional con +60 clientes.
-⚡ Llevo 7 años aprendiendo y construyendo cosas reales de forma autodidacta.
-🛡️ Próximo objetivo: especializarme en **Ciberseguridad e IA** tras finalizar DAW.
+- 💻 Apasionado por la **tecnología, la infraestructura y el desarrollo web moderno**.
+- 🌐 Construyo webs, paneles de administración, bots y sistemas de hosting.
+- 🔥 Fundador de **MixelNodes** — hosting profesional con +60 clientes.
+- ⚡ Llevo 7 años aprendiendo y construyendo cosas reales de forma autodidacta.
+- 🛡️ Próximo objetivo: especializarme en **Ciberseguridad e IA** tras finalizar DAW.
 
 ---
 
